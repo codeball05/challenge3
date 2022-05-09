@@ -9,7 +9,7 @@ Reto 3 manejo de navegation bar.
 
 ## captures
 
-[navigation.png](https://postimg.cc/qgwtv2fF)
+[![navigation.png](https://i.postimg.cc/hPWVM02K/navigation.png)](https://postimg.cc/qgwtv2fF)
 
 ## By
 - Luis Alberto Condori C.
