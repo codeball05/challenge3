@@ -1,2 +1,15 @@
-# challenge3
-reto nro 3
+# rutas app
+
+
+Reto 3 manejo de navegation bar.
+
+- Navigation bar.
+- Data Tables.
+- scrollin vertical horizontal
+
+## captures
+
+[navigation.png](https://postimg.cc/qgwtv2fF)
+
+## By
+- Luis Alberto Condori C.
